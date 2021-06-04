@@ -1,9 +1,0 @@
-public constructor() {
-	tranki keloke
-}
-
-private void imprimir() {
-	tupu
-	fels b nin
-	elpeto
-}
