@@ -1,3 +1,0 @@
-esto es el constructor() {
-	de la clase
-}
