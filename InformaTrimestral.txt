@@ -1,5 +1,6 @@
 public constructor() {
-	tranki keloke
+	tranki bar keloke
+	ostras pedrin
 }
 
 private void imprimir() {
