@@ -1,10 +1,12 @@
 public constructor() {
 	tranki bar keloke
 	ostras pedrin
+	trankiS keloke
+	ESTO CONF NO PASABA
 }
 
 private void imprimir() {
 	tupu
-	fels b nin
+	fels b nin Si losco
 	elpeto
 }
