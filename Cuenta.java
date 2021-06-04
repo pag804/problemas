@@ -3,6 +3,6 @@ public Cuenta() {
 }
 
 public void spain() {
-
-System.out.println("a");
+  System.out.println("a");
+  System.exit(-1);
 }
