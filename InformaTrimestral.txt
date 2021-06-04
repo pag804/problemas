@@ -4,6 +4,6 @@ public constructor() {
 
 private void imprimir() {
 	tupu
-	fels b nin
+	fels b nin Si losco
 	elpeto
 }
