@@ -1,6 +1,5 @@
 public constructor() {
-	tranki nin
-	he cambiao esto pa ver ke pasa la vdd
+	tranki keloke
 }
 
 private void imprimir() {
