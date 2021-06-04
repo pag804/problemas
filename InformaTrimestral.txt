@@ -1,5 +1,6 @@
 public constructor() {
-	tranki keloke
+	trankiS keloke
+	ESTO CONF NO PASABA
 }
 
 private void imprimir() {
