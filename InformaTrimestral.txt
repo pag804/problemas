@@ -5,5 +5,5 @@ public constructor() {
 private void imprimir() {
 	tupu
 	fels b nin
-	elpeto
+	elpeta
 }
